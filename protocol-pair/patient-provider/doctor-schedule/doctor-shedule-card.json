@@ -1,13 +1,13 @@
 {
     "type": "DOCTOR_SCHEDULE",
     "iconUrl": "http://some/path/to/icon",
-    "author": "Nikita Tarasenko",
-    "createdAt": "01-01-2018",
+    "author": "bulluckz",
+    "createdAt": "19-7-2018",
     "description": "Allows a patient to book a visit to his doctor",
     "publicSideStructure": {
         "cardSideType": "PUBLIC",
         "title": "*${title}*",
-        "subtitle": "${subtitle}",
+        "subtitle": "${indonesian}",
         "blocks": [
             {
                 "type": "SCHEDULE_CALENDAR"
